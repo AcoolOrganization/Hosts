@@ -1,0 +1,2 @@
+# Hosts
+For self hosting 
